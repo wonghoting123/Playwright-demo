@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# Downloaded files
+downloads/
+
+# Build output
+dist/
+
+# Playwright test artifacts
+test-results/
+playwright-report/
+
+# Environment
+.env
